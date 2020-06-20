@@ -87,7 +87,7 @@ $time = date('Y-m-d H:i:s');
 
 
 
-$url = "https://discordapp.com/api/webhooks/723343316753842197/WIa9mPUeWodD8EYSLmQ96Y36tQw0tIDpEDoBWs3SKDMbWkLuI9Elwh4C6IAsr0bxWvn_";
+$url = "WEBHOOK_HERE";
 
 $hookObject = json_encode([
 
